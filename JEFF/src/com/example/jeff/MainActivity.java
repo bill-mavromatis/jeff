@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);      
         
-        //Set Camera Button?
+        //Set Camera Button
         Button b2 = (Button)findViewById(R.id.button2);
         b2.setOnClickListener(new OnClickListener() {
             public void onClick(View v) {
