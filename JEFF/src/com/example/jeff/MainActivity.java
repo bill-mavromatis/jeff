@@ -26,7 +26,7 @@ public class MainActivity extends ActionBarActivity {
             }
         });   
         
-        //Set QR Button
+        //Set QR Button dgsdgsdfgsdfgsdfg
         Button b1 = (Button)findViewById(R.id.button1);
         b1.setOnClickListener(new OnClickListener() {
             public void onClick(View v) {
